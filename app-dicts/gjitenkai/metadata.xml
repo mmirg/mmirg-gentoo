@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="project">
+		<email>cjk@gentoo.org</email>
+		<name>Cjk</name>
+	</maintainer>
+	<longdescription>
+		Gjiten Kai is a rewrite of the Gnome Japanese Dictionary Gjiten.
+	</longdescription>
+	<upstream>
+		<remote-id type="github">gjitenkai</remote-id>
+		<maintainer status="active">
+			<name>Olivier Drevet</name>
+			<email>odrevet@gmail.com</email>
+		</maintainer>
+	</upstream>
+</pkgmetadata>
